@@ -10,6 +10,7 @@ The notebook likely evaluates the model using common metrics associated with Log
 
 <br>
 Accuracy: The percentage of correctly predicted instances out of the total instances.
+<br>
 Confusion Matrix: A table used to describe the performance of a classification model.
 
 <br>
